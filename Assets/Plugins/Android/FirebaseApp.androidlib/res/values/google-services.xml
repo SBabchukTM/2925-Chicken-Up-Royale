@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">208493617264</string>
+  <string name="google_storage_bucket" translatable="false">chicken-up-royale.firebasestorage.app</string>
+  <string name="project_id" translatable="false">chicken-up-royale</string>
+  <string name="google_api_key" translatable="false">AIzaSyCFqA6XmL7kwrOGbtQCblrnJBIF6nAGi3A</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFqA6XmL7kwrOGbtQCblrnJBIF6nAGi3A</string>
+  <string name="google_app_id" translatable="false">1:208493617264:android:2fe9251df8f4c8d81fd4b5</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208493617264",
+    "project_id": "chicken-up-royale",
+    "storage_bucket": "chicken-up-royale.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208493617264:android:2fe9251df8f4c8d81fd4b5",
+        "android_client_info": {
+          "package_name": "com.squareu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFqA6XmL7kwrOGbtQCblrnJBIF6nAGi3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

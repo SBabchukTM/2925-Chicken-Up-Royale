@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="79cf8941-85f0-48cd-b04d-37af93c946b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProjectAssets/Prefabs/UI/Screens/SettingsScreen.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProjectAssets/Prefabs/UI/Screens/SettingsScreen.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_4.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_5.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750078233278</updated>
-      <workItem from="1750078283473" duration="386000" />
+      <workItem from="1750078283473" duration="991000" />
     </task>
     <servers />
   </component>
