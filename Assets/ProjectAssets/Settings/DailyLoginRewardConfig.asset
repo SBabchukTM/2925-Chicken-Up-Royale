@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5827ea950ebd5a648a1d24f034e94a7c, type: 3}
+  m_Name: DailyLoginRewardConfig
+  m_EditorClassIdentifier: 
+  Rewards:
+  - RewardSprite: {fileID: 21300000, guid: 401d8802c66fe2f488057b8982fd2319, type: 3}
+    RewardAmount: 20
+  - RewardSprite: {fileID: 21300000, guid: 401d8802c66fe2f488057b8982fd2319, type: 3}
+    RewardAmount: 40
+  - RewardSprite: {fileID: 21300000, guid: f93c6d995d78a09459ffad0078c51175, type: 3}
+    RewardAmount: 1
+  - RewardSprite: {fileID: 21300000, guid: 2dded6906ffe7c84085e5d5855ed3e54, type: 3}
+    RewardAmount: 2
+  - RewardSprite: {fileID: 21300000, guid: 210cd19fd0acc4d4aa0e04f085b4ed9c, type: 3}
+    RewardAmount: 0
+  - RewardSprite: {fileID: 21300000, guid: c14e289f118144c4cadd96ab98d97748, type: 3}
+    RewardAmount: 0
+  - RewardSprite: {fileID: 21300000, guid: b88643b58dfa0974c89b90a834c5c164, type: 3}
+    RewardAmount: 0
+  LockedRewardSprite: {fileID: 21300000, guid: 448589edf5f4148449a9085cb3ce0fb8, type: 3}
+  UnlockedRewardSprite: {fileID: 21300000, guid: 561d19e61f375fa468b640ea46d578a4, type: 3}
+  LockedClaimButtonSprite: {fileID: 21300000, guid: f7ea9d28c45f75d4897541e958dd513d, type: 3}
+  UnlockedClaimButtonSprite: {fileID: 21300000, guid: 77e70e26eebfc524281fa61b565b9a49, type: 3}

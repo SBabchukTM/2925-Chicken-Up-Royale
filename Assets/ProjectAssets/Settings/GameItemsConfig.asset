@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8abe78c76f1ee24d8afb38cfeb10f89, type: 3}
+  m_Name: GameItemsConfig
+  m_EditorClassIdentifier: 
+  EggItemDisplayConfigs:
+  - ItemSprite: {fileID: 21300000, guid: a0c8d3de016e382498fb7c01d41cc164, type: 3}
+    ItemId: 0
+  - ItemSprite: {fileID: 21300000, guid: 2dded6906ffe7c84085e5d5855ed3e54, type: 3}
+    ItemId: 1
+  - ItemSprite: {fileID: 21300000, guid: f93c6d995d78a09459ffad0078c51175, type: 3}
+    ItemId: 2
+  - ItemSprite: {fileID: 21300000, guid: edb70824364519f4097060c5d0b628dd, type: 3}
+    ItemId: 3
+  - ItemSprite: {fileID: 21300000, guid: 62db6125befdab346aabc8cf255e92d5, type: 3}
+    ItemId: 4
+  - ItemSprite: {fileID: 21300000, guid: 09d7d5e9a84de1c4ab0d571552d3a129, type: 3}
+    ItemId: 5
+  ChickenItemDisplayConfigs:
+  - ItemSprite: {fileID: 21300000, guid: 8ebdf947a4825194eaad889ea19ae71a, type: 3}
+    ItemId: 0
+  - ItemSprite: {fileID: 21300000, guid: ef91342c6fa431149bfb9af1b068b5b1, type: 3}
+    ItemId: 1
+  - ItemSprite: {fileID: 21300000, guid: b89d379d8811b084a9e13b28824d1b61, type: 3}
+    ItemId: 2
+  - ItemSprite: {fileID: 21300000, guid: 18ff243113077c5488e7a70ebe9ab8fa, type: 3}
+    ItemId: 3
+  - ItemSprite: {fileID: 21300000, guid: e2dcc6154e91f104a987681ecf71ee53, type: 3}
+    ItemId: 4
+  - ItemSprite: {fileID: 21300000, guid: 7bc2b410b7c947e4a89acc25ed02af00, type: 3}
+    ItemId: 5
+  HenItemDisplayConfigs:
+  - ItemSprite: {fileID: 21300000, guid: cef9ee44574844547a36cca01f4686d3, type: 3}
+    ItemId: 0
+  - ItemSprite: {fileID: 21300000, guid: 8bb32a4f3a4a7504e927b5ac2b326c34, type: 3}
+    ItemId: 1
+  - ItemSprite: {fileID: 21300000, guid: a25404c2d48246f4d99781ed45e07874, type: 3}
+    ItemId: 2
+  - ItemSprite: {fileID: 21300000, guid: 8124125270094ab45b343d031bf2acff, type: 3}
+    ItemId: 3
+  - ItemSprite: {fileID: 21300000, guid: fe97165aed9de4742978a3de39c9ada5, type: 3}
+    ItemId: 4
+  - ItemSprite: {fileID: 21300000, guid: 69a6e2ce250b8684799bf289ef40db69, type: 3}
+    ItemId: 5

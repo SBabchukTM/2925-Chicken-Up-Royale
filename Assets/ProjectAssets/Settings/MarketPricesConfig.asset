@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ddd8125369099e4a8c4c52045037881, type: 3}
+  m_Name: MarketPricesConfig
+  m_EditorClassIdentifier: 
+  BoxesPrices: 00000000e8030000d0070000
+  EggPricesConfig:
+  - ItemId: 0
+    SellPrice: 25
+    SecondsToSell: 30
+  - ItemId: 1
+    SellPrice: 50
+    SecondsToSell: 120
+  - ItemId: 2
+    SellPrice: 100
+    SecondsToSell: 240
+  - ItemId: 3
+    SellPrice: 200
+    SecondsToSell: 600
+  - ItemId: 4
+    SellPrice: 300
+    SecondsToSell: 2400
+  - ItemId: 5
+    SellPrice: 500
+    SecondsToSell: 6000
+  ChickenPricesConfig:
+  - ItemId: 0
+    SellPrice: 100
+    SecondsToSell: 120
+  - ItemId: 1
+    SellPrice: 120
+    SecondsToSell: 240
+  - ItemId: 2
+    SellPrice: 150
+    SecondsToSell: 600
+  - ItemId: 3
+    SellPrice: 300
+    SecondsToSell: 2000
+  - ItemId: 4
+    SellPrice: 500
+    SecondsToSell: 5000
+  - ItemId: 5
+    SellPrice: 800
+    SecondsToSell: 8000
+  HenPricesConfig:
+  - ItemId: 0
+    SellPrice: 150
+    SecondsToSell: 750
+  - ItemId: 1
+    SellPrice: 250
+    SecondsToSell: 1500
+  - ItemId: 2
+    SellPrice: 500
+    SecondsToSell: 3000
+  - ItemId: 3
+    SellPrice: 1000
+    SecondsToSell: 6000
+  - ItemId: 4
+    SellPrice: 1500
+    SecondsToSell: 10000
+  - ItemId: 5
+    SellPrice: 2000
+    SecondsToSell: 16000
