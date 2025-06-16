@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd00f84340efaba429b2bd02633be7a0, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  AttributionUrl: hickenuproyale.today/privacypolicy/
+  GadIdKey: pj7xxcxnjqmk0t
+  ReferrerKey: kbshok2qzeqg8vfh
+  ExtraParam1: umu09skmjpgxlt8vflp
+  ExtraParam2: if9p84y33reofuwl
+  ExtraParam3: pbp5xvehcj
+  ExtraParam4: i0dmp26d42ud
+  ExtraParam5: 0m979kum64m4fpjfs1k
+  ExtraParam7: m33slnsut23xpghk6
+  ExtraParam8: r45ua3t76q3m
+  ExtraParam9: zl5x7pgqwh
+  PushNotificationTag: yqrp7i5mr2abn
+  CustomUserAgent: 6ese2dg9heclg
+  FcmTokenKey: ujkf2s70b6
+  PushNotificationApiUrl: chickenuproyale.today/soefivhz8m/
+  PushNotificationApiGadidKey: kv45x3vblt
+  PushNotificationApiFcmTokenKey: 5l4cfjpo2j
+  PushNotificationApiPushTagKey: 2o4nmhneqb
+  PostbackApiUrl: chickenuproyale.today/rhtct4wglz/
+  PostbackTrackingIdKey: 94iyp7hxcr
+  PostbackFcmTokenKey: e5vnq9aeol
+  isDebug: 0
+  apiVersion: 1010
+  codeVersion: TM_APPS
+  useMocInstallReferrer: 1
+  mocInstallReferrer: utm_source=apps.facebook.com&utm_campaign=fb4a_content=%7B%22app%22%3A%2223623634262346%22%2C%22t%22%3A1750079033%2C%22source%22%3A%7B%22data%22%3A%22f0aeca78079c7ac45325bcb72ab7bd12cd309a968a907baa4fc7606403141526fddd9a7b84dc7430204f0b34ce2cb8214afbdecb36f8f8b6d0bef475efcd38c148b787d348558a658e6d06bf9ea1ba72cd201bcbda41098631b33a5b3132440c558e4e2755b3be6ce41845e618ffb9eb04f7c0b0dea3fba977ad97202d82e9dff390d29b60ca2ebcaa313814a3a32e51a8da44a300a819552aff8a9a746c801159fd7e818ea45c2e909f73aabe5b499c555c6eeaf1c56fd590a12abd106bb8b1e524c053aaf9dbd530076a12f9cf53034ff54411e0aa44fc97043e4f15aac078302da7d2131b77b6dde1f2178e6732a84352b20efea4450366bec2b9071ef7968aabb3684da1ca67d372a8eeb9bf0f47608b988ab956d718c3420e0c448372203ab1daa05762d32e876c09465ad353281ad5244a2b6c31bb532f25f821cef8d61c1b89b59808dbaf382665930cd633ded47fd9241ae1c6e0ff9408be1e6cc93ce3f55d586c2b5d886cfe26ffa2095472e28c7ee8a959ecc099d5aa29d622f951f8003d888d6897d0ab47b20cd2d25037a8e0cce04775944dfb1a560767586f4c36430541f9bcda3bed51cf2f0252eb4296547fcc87bd5b2f6b15435ae8a58c3d2d39259ed9fee9bce863aa1372df6b77b75de25b9f79b3979a895e3ea7702cefa283c6320ed2e3b73f604fccfb4ebd7a9897064e3eb7616bb99885b3027a7511f5959744976796bdf00090f33eb9ad99ee8e1efde826507b699e2da11a9845937ce7c67e11c31a5166fdb51d4b8f39a1dd9aaa507e86c2a5d7eaf31496b1a2cfc9a678cf09f5%22%2C%22nonce%22%3A%22236d2262c2e00defa7639744%22%7D%7D
