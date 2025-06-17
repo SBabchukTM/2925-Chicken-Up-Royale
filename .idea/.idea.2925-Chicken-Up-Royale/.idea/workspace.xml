@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79cf8941-85f0-48cd-b04d-37af93c946b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProjectAssets/Prefabs/UI/Screens/SettingsScreen.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProjectAssets/Prefabs/UI/Screens/SettingsScreen.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProjectAssets/Textures/ShopItems/bonus_5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2925-Chicken-Up-Royale/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2925-Chicken-Up-Royale/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750078233278</updated>
-      <workItem from="1750078283473" duration="991000" />
+      <workItem from="1750078283473" duration="1433000" />
     </task>
     <servers />
   </component>
